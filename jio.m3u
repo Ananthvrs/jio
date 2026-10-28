@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1, J Movies
+http://localhost:5350/live/417.m3u8
+#EXTINF:-1, Jaya Plus
+http://localhost:5350/live/418.m3u8
+#EXTINF:-1, Jaya TV HD
+http://localhost:5350/live/419.m3u8
+#EXTINF:-1, Jaya Max
+http://localhost:5350/live/420.m3u8
+#EXTINF:-1, History TV18 HD Tamil
+http://localhost:5350/live/579.m3u8
+#EXTINF:-1, Nambikkai
+http://localhost:5350/live/603.m3u8
+#EXTINF:-1, News18 Tamil nadu
+http://localhost:5350/live/615.m3u8
+#EXTINF:-1, Polimer News
+http://localhost:5350/live/636.m3u8
+#EXTINF:-1, Sathiyam TV
+http://localhost:5350/live/671.m3u8
+#EXTINF:-1, News7 Tamil
+http://localhost:5350/live/673.m3u8
+#EXTINF:-1, Puthiya Thalimurai
+http://localhost:5350/live/677.m3u8
+#EXTINF:-1, Raj Digital Plus
+http://localhost:5350/live/683.m3u8
+#EXTINF:-1, Polimer TV
+http://localhost:5350/live/705.m3u8
+#EXTINF:-1, Raj TV
+http://localhost:5350/live/707.m3u8
+#EXTINF:-1, Makkal TV
+http://localhost:5350/live/708.m3u8
+#EXTINF:-1, DD Tamil
+http://localhost:5350/live/726.m3u8
+#EXTINF:-1, Vasanth TV
+http://localhost:5350/live/727.m3u8
+#EXTINF:-1, Raj Musix
+http://localhost:5350/live/748.m3u8
+#EXTINF:-1, Raj News\u00a024x7
+http://localhost:5350/live/767.m3u8
+#EXTINF:-1, Peppers TV
+http://localhost:5350/live/796.m3u8
+#EXTINF:-1, Tunes 6
+http://localhost:5350/live/803.m3u8
+#EXTINF:-1, Travelxp Tamil
+http://localhost:5350/live/814.m3u8
+#EXTINF:-1, Puthu Yugam
+http://localhost:5350/live/824.m3u8
+#EXTINF:-1, Malaimurasu Seithigal
+http://localhost:5350/live/826.m3u8
+#EXTINF:-1, Thanthi TV
+http://localhost:5350/live/830.m3u8
+#EXTINF:-1, Angel TV HD
+http://localhost:5350/live/835.m3u8
+#EXTINF:-1, Madhimugam TV
+http://localhost:5350/live/843.m3u8
+#EXTINF:-1, Vendhar TV
+http://localhost:5350/live/857.m3u8
+#EXTINF:-1, Sai TV
+http://localhost:5350/live/937.m3u8
+#EXTINF:-1, Win TV
+http://localhost:5350/live/970.m3u8
+#EXTINF:-1, Vaanavil TV
+http://localhost:5350/live/971.m3u8
+#EXTINF:-1, Kalaignar TV
+http://localhost:5350/live/1209.m3u8
+#EXTINF:-1, Kalaignar Seithigal 
+http://localhost:5350/live/1210.m3u8
+#EXTINF:-1, SVBC2
+http://localhost:5350/live/1417.m3u8
+#EXTINF:-1, News J
+http://localhost:5350/live/1515.m3u8
+#EXTINF:-1, Moon TV
+http://localhost:5350/live/1518.m3u8
+#EXTINF:-1, RadheKrishna TV
+http://localhost:5350/live/1537.m3u8
+#EXTINF:-1, MK Six
+http://localhost:5350/live/1647.m3u8
+#EXTINF:-1, Madha TV
+http://localhost:5350/live/1655.m3u8
+#EXTINF:-1, 7S Music 
+http://localhost:5350/live/1664.m3u8
+#EXTINF:-1, Hosanna TV
+http://localhost:5350/live/1738.m3u8
+#EXTINF:-1, SVBC
+http://localhost:5350/live/1850.m3u8
+#EXTINF:-1, SVBC3
+http://localhost:5350/live/1858.m3u8
+#EXTINF:-1, SVBC4
+http://localhost:5350/live/1859.m3u8
+#EXTINF:-1, News Tamil 24x7
+http://localhost:5350/live/1954.m3u8
+#EXTINF:-1, M Nadu
+http://localhost:5350/live/2434.m3u8
+#EXTINF:-1, Jothi TV
+http://localhost:5350/live/2768.m3u8
+#EXTINF:-1, Tamilan Television
+http://localhost:5350/live/2958.m3u8
+#EXTINF:-1, Velicham Tv
+http://localhost:5350/live/3004.m3u8
+#EXTINF:-1, Tamil Janam
+http://localhost:5350/live/3045.m3u8
+#EXTINF:-1, Thanthi One
+http://localhost:5350/live/3059.m3u8
+#EXTINF:-1, Tamil Naaptol
+http://localhost:5350/live/3175.m3u8
+#EXTINF:-1, Sana TV
+http://localhost:5350/live/3201.m3u8
+#EXTINF:-1, Sri Naga Sai Mandir
+http://localhost:5350/live/3221.m3u8
+#EXTINF:-1, Jio Semma Cinema
+http://localhost:5350/live/3264.m3u8
+#EXTINF:-1, OM TV
+http://localhost:5350/live/3279.m3u8
+#EXTINF:-1, R TV Bhakthi
+http://localhost:5350/live/3300.m3u8
+#EXTINF:-1, Rock TV
+http://localhost:5350/live/3356.m3u8
+#EXTINF:-1, Dharsan TV
+http://localhost:5350/live/3357.m3u8
+#EXTINF:-1, Bhagyam TV
+http://localhost:5350/live/3358.m3u8
+#EXTINF:-1, Sana Plus
+http://localhost:5350/live/3359.m3u8
+#EXTINF:-1, Subin TV
+http://localhost:5350/live/3360.m3u8
+#EXTINF:-1, Brio TV
+http://localhost:5350/live/3381.m3u8
+#EXTINF:-1, NTC TV
+http://localhost:5350/live/3393.m3u8
+#EXTINF:-1, Suriya TV
+http://localhost:5350/live/3394.m3u8
+#EXTINF:-1, Aaryaa TV
+http://localhost:5350/live/3395.m3u8
+#EXTINF:-1, Ultimate TV
+http://localhost:5350/live/3396.m3u8
+#EXTINF:-1, Roja TV
+http://localhost:5350/live/3409.m3u8
+#EXTINF:-1, Roja Movies
+http://localhost:5350/live/3417.m3u8
+#EXTINF:-1, Village TV
+http://localhost:5350/live/3497.m3u8
+#EXTINF:-1, Tamil Times
+http://localhost:5350/live/3531.m3u8
+#EXTINF:-1, Nijam TV
+http://localhost:5350/live/3550.m3u8
+#EXTINF:-1, Dhool TV
+http://localhost:5350/live/3610.m3u8
